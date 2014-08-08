@@ -6,3 +6,4 @@ release.properties
 #intellij exclude.
 .idea/
 *.iml
+*-reduced-pom.xml
